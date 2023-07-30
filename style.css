@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    color: #fafccd;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+h2{
+    color:#C58940;
+    font-size: 30px;
+}
+
+h3{
+    color: #115c9e;
+    font-size: 27px;
+    position: relative;
+    bottom: 5px;
+    margin: 0;
+}
+
+h4{
+    color: #098b36;
+    font-size: 27px;
+    position: relative;
+    bottom: 5px;
+    margin: 0;
+}
+
+p{
+    color:#EAF6F6 ;
+    font-family: 'Mukta', sans-serif;
+
+}
+
+p1{
+    position: relative;
+    bottom: 13px;
+    color: #40514E;
+}
+
+.hell{
+    font-weight: bold;
+    line-height:2;
+    font-size: 20px;
+}
+
+p2{
+    color: #40514E;
+    line-height:2;
+}
+
+p3:hover{
+    color:whitesmoke ;
+}
+
+hr{
+    border-style: dotted none none;
+    width:6%;
+    border-width:8px;
+    border-color: #A555EC;
+    margin: 50px auto;
+}
+
+a{
+    font-family: 'Mukta', sans-serif;
+    text-decoration: none;
+    color: #065c67;
+    margin: 0 10px;
+}
+
+a:hover{
+    color:#EAF6F6 ;
+}
+
+
+
+
+/*################################# class object #######################*/
+
+.fast-c{
+    background-color: #181D31;
+    position: relative;
+    padding-top: 20px;
+
+}
+
+.profile{
+    width: 30%;
+    margin: 0 auto 0 auto;
+
+}
+
+
+.profile{
+    padding-top: 1px;
+    padding-bottom:15px;
+    margin-bottom: 3px;
+}
+
+.skill-row{
+    width: 40%;
+    margin: 50px auto;
+    text-align: left;
+    line-height:2;
+}
+
+.programmer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.website-image{
+    width: 22%; 
+    float: right; 
+    margin-left: 30px; 
+}
+
+.contact-me{
+    width: 40%;
+    margin: 0 auto 50px;
+}
+
+
+.gmail{
+    background-color: #bf66bf;
+    padding: 16px 50px;
+    border: none;
+    border-color: white;
+    cursor: pointer;
+    border-radius: 1cm;
+}
+.gmail:hover{
+    background-color:#098b36;
+}
+
+.bottom-container{
+    background-color: #66a0bf;
+    margin: 30px auto 0;
+    padding: 50px  0 20px ;
+}
+
